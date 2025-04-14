@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "https%3A//www.qiupapatw.com/blog/posts/%E6%89%8B%E6%A9%9F%E9%9A%A8%E8%BA%AB%E7%A2%9F%E6%80%8E%E9%BA%BC%E7%94%A8%EF%BC%9F%E8%A9%B3%E7%B4%B0%E6%95%99%E5%AD%B8%E8%88%87%E5%AF%A6%E7%94%A8%E6%8C%87%E5%8D%97",
+      "source": "/blog/posts/%E6%89%8B%E6%A9%9F%E9%9A%A8%E8%BA%AB%E7%A2%9F%E6%80%8E%E9%BA%BC%E7%94%A8%EF%BC%9F%E8%A9%B3%E7%B4%B0%E6%95%99%E5%AD%B8%E8%88%87%E5%AF%A6%E7%94%A8%E6%8C%87%E5%8D%97",
       "destination": "https://www.qiupapa.com/blog/posts/手機隨身碟怎麼用？詳細教學與實用指南",
       "permanent": true
     },
