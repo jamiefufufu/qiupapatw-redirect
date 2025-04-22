@@ -254,6 +254,11 @@
       "source": "/blog/posts/%E6%8C%87%E7%B4%8B%E9%9B%BB%E5%AD%90%E9%96%80%E9%8E%96%E5%A5%BD%E7%94%A8%E5%97%8E%EF%BC%9F%E8%A7%A3%E5%AF%86%E9%9B%BB%E5%AD%90%E9%96%80%E9%8E%96%E7%9A%84%E5%84%AA%E9%BB%9E%E8%88%87%E5%AE%89%E5%85%A8%E6%80%A7",
       "destination": "https://www.qiupapa.com/blog/posts/指紋電子門鎖好用嗎？解密電子門鎖的優點與安全性",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://www.qiupapa.com",
+      "permanent": true  
     }
   ]
 }
